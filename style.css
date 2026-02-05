@@ -1,0 +1,25 @@
+body {
+    font-family: Garamond, Helvetica, sans-serif;
+    background-color: rgb(213, 255, 255);
+}
+
+h1 {
+    color:black;
+    background-color: rgb(174, 255, 228);
+    padding: 10px 30px;
+    margin: 50px auto;
+    text-align: center;
+    width: fit-content;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.lista {
+    color:rgb(65, 58, 58);
+    background-color: rgb(187, 249, 249);
+    padding: 50px 50px;
+    font-size: 24px;
+    margin: 0px auto;
+    height:auto;
+    width: fit-content;
+    text-align: center;
+}
